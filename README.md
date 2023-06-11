@@ -24,3 +24,7 @@
 6.Save Current File-
 
 ![Save Current File](https://github.com/ayanahmad01/TextEditor/assets/136154821/df5635c7-d57c-4c1e-945c-fbffa9b5c092)
+
+7.Scroll Bar-
+
+![Scroll Bar](https://github.com/ayanahmad01/TextEditor/assets/136154821/d9c921e4-8b20-48ab-99fc-fa2528acceee)
