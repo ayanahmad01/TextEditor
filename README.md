@@ -18,6 +18,7 @@
 7.Users can write and edit text inside the text area.
 
 
+
 #Working of Project:
 
 1.Simple Text Editor-
