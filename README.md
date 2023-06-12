@@ -1,5 +1,5 @@
 # TextEditor
-##DSA Placement Readiness E-June First Contest Project
+##AccioJob/DSA Placement Readiness E-June First Contest Project
 
 #Highlights of Project:
 
