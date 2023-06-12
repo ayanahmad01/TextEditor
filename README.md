@@ -1,6 +1,15 @@
 # TextEditor
 ##DSA Placement Readiness E-June First Contest Project
 
+#Highlights of Project:
+1.The project involves building a text editor in Java, using Java Swing for creating a graphical user interface.
+2.The text editor will have a window (frame) with a menu bar, consisting of two menus - file menu and edit menu.
+3.The file menu will have features like new window, save file and open file.
+4.The edit menu will have five functions - Cut, Copy, Paste, select All and Close button.
+5.The text area inside the window will be used for writing and editing the text.
+6.The project demo shows a simple text editor created using Java Swing, with two menus (file and edit) and multiple features within each menu.
+7.Users can write and edit text inside the text area.
+
 1.Simple Text Editor-
 
 ![Simple Text Editor](https://github.com/ayanahmad01/TextEditor/assets/136154821/0a80bacf-d110-47ab-ad56-4a29402b70f7)
